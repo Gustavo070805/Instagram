@@ -22,7 +22,7 @@ Instagram é uma aplicação móvel de compartilhamento de fotos e vídeos que p
 
 #### **Funcionalidades Principais**
 
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-08 at 19 47 25" src="https://github.com/user-attachments/assets/1289c6d9-a5d4-4d2c-bd85-e12e50750f61" />
+<img width="720" height="480" alt="WhatsApp Image 2026-09-08 at 19 47 25" src="https://github.com/user-attachments/assets/1289c6d9-a5d4-4d2c-bd85-e12e50750f61" />
 
 
 * **Compartilhamento de Fotos e Vídeos:** Upload e publicação de imagens e vídeos editados
