@@ -26,16 +26,12 @@ Instagram é uma aplicação móvel de compartilhamento de fotos e vídeos que p
 
 
 * **Compartilhamento de Fotos e Vídeos:** Upload e publicação de imagens e vídeos editados
-* **Filtros e Ferramentas de Edição:** Aplicação de filtros artísticos e ajustes de imagem
-* **Histórias (Stories):** Publicação de conteúdo efêmero que desaparece após 24 horas
-* **Reels:** Criação e compartilhamento de vídeos curtos (até 90 segundos)
-* **Feed de Descoberta:** Exploração de conteúdo de contas não seguidas
+* **Conta pública e privada:** Permite alterar a privacidade dos perfis, alterando a visibilidade das abas posts, seguidores e seguindo
+* **Histórias (Stories):** Publicação de conteúdo que desaparece após 24 horas
+* **Reels:** Criação e compartilhamento de vídeos curtos na vertical (até 3 minutos)
+* **Feed de Descoberta:** Exploração de conteúdo sugerido de contas não seguidas pelo usuário
 * **Mensagens Diretas (DM):** Comunicação privada entre usuários
-* **Notificações:** Alertas sobre curtidas, comentários e seguimentos
-* **Busca e Hashtags:** Descoberta de conteúdo por palavras-chave
-* **Live:** Transmissões ao vivo em tempo real
-* **Compras:** Integração com lojas de e-commerce
-
+* **Live:** Transmissões ao vivo na vertical
 
 
 #### **Tecnologias Utilizadas**
